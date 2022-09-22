@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chandra-2607
 - 👀 I’m interested in MACHINE LEARNING, ARTIFICIAL INTELLIGENCE.
 - 🌱 I’m currently learning MACHINE LEARNING.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Different projects in ml and ai.
 
 <!---
 chandra-2607/chandra-2607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
